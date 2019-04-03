@@ -9,7 +9,7 @@ def hello_world():
     recipient = os.getenv("RECIPIENT", "world")
 
     # return jsonify({"message": "Hello", "recipient": recipient})
-    return jsonify({"message": "Goodbye", "recipient": recipient})
+    return jsonify({"message": "Hello", "recipient": recipient, "result": "OK"})
 
 if __name__ == "__main__":
     app.run()
