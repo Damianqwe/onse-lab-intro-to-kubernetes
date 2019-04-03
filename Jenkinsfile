@@ -1,6 +1,6 @@
 // VARIABLES
 
-def github_id = 'Damianqwe'
+def github_id = 'damianqwe'
 
 // vvv DO NOT EDIT THE VARIABLES BETWEEN THESE MARKERS vvv //
 
